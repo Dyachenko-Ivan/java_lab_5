@@ -1,5 +1,4 @@
-//public class DiagMatrix extends Matrix{
-    //public DiagMatrix(){
+//public DiagMatrix(){
 
     //}
 //}
