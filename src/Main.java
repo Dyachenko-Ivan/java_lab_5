@@ -23,7 +23,6 @@ public class Main {
 
 
 
-
         Matrix m2 = new Matrix(2);
 
         m2.setIndex(1,1, 1);
